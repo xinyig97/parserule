@@ -9,3 +9,4 @@
 - (https://regex101.com/r/cO8lqs/25)
 - (https://www.youtube.com/watch?v=aIPqt-OdmS0)
 - (https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python)
+- (https://programminghistorian.org/en/lessons/creating-and-viewing-html-files-with-python)
